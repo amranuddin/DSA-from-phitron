@@ -6,6 +6,7 @@ int main()
     cin >> t >>n;
     cout << t << n;
     cout << "ME go out";
-    cout << "Amran uddin ";
+    cout << "Amran uddin new branch check ";
+    //goout
     
 }
