@@ -5,6 +5,6 @@ int main()
     int t,n;
     cin >> t >>n;
     cout << t << n;
-    cout << "Amran uddin";
+    cout << "Amran";
     
 }
