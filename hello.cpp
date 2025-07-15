@@ -5,7 +5,7 @@ int main()
     int t,n;
     cin >> t >>n;
     cout << t << n;
-    cout << "ME";
-    cout << "Amran";
+    cout << "ME go out";
+    cout << "Amran uddin ";
     
 }
