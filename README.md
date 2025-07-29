@@ -1,4 +1,3 @@
-this is my first project behind and i try to learn about github but its so very
-ad
-ajd  \djfd
-dhfd
+Hi everyone this is my first github experiance. Though i knew coding but i did not have any experiance of github. And here i upload my DSA code that i learnt from PHITRON. 
+
+okay lets seeee what's next....
