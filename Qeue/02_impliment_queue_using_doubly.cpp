@@ -13,6 +13,7 @@ class Node
         this->prev=NULL;
     }
 };
+
 class myqeue
 {
     public:
@@ -81,4 +82,5 @@ int main()
         q.pop();
     }
     return 0;
+
 }
