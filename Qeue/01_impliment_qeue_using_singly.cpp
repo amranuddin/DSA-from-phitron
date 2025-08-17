@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 class Node
+
 {
     public:
     int val;
@@ -11,6 +12,7 @@ class Node
         this->next=NULL;
     }
 };
+
 class myqeue
 {
     public:
@@ -58,6 +60,7 @@ class myqeue
        return head==NULL; //head zodi null a thake tahole return hobe true
     }
 };
+
 int main() 
 {
     myqeue q;
@@ -75,4 +78,5 @@ int main()
         q.pop();
     }
     return 0;
+
 }
