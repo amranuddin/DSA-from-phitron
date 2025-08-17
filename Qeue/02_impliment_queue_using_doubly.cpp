@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 class Node
 {
     public:
@@ -81,6 +82,8 @@ int main()
         cout << q.front()<<endl;
         q.pop();
     }
+    
     return 0;
 
 }
+
