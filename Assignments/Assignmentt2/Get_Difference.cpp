@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 class Node
+
 {
 public:
     int val;
@@ -76,4 +77,5 @@ int main()
     *s =  *m-*mi;
     cout <<  *s;
     return 0;
+
 }
