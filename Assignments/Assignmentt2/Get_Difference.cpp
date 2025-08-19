@@ -13,6 +13,7 @@ public:
     }
 };
 
+
 void singly_input(Node *&head, Node *&tail, int val)
 {
     Node *newnode = new Node(val);
@@ -79,3 +80,4 @@ int main()
     return 0;
 
 }
+
