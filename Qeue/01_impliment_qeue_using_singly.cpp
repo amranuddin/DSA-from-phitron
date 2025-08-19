@@ -14,6 +14,7 @@ class Node
 };
 
 class myqeue
+
 {
     public:
     Node * head=NULL;
@@ -80,3 +81,4 @@ int main()
     return 0;
 
 }
+
