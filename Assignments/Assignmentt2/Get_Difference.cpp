@@ -50,6 +50,7 @@ void result(Node * &head, int *  & max , int *  & min )
       tmp = tmp->next;
     }
 }
+
 int main()
 {
     Node *head = NULL;
@@ -80,4 +81,5 @@ int main()
     return 0;
 
 }
+
 
